@@ -1,0 +1,1 @@
+The python script Time_Series_Prediction_With_LSTM.ipynb uses a Long Short-Term Memory network to predict sequences of optical signals.

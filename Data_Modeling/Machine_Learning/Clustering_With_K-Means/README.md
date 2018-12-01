@@ -1,0 +1,1 @@
+The python script Clustering_With_K-Means.ipynb uses the k-means algorith to find clusters of data for optical comunication signals. The features are the power and frequency of the signals.

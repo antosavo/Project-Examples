@@ -1,0 +1,18 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=1,pvmem=1024mb,walltime=48:00:00
+#PBS -V
+#PBS -t 0-100
+
+#curr_dir=`pwd`
+
+cd $PBS_O_WORKDIR
+
+mkdir seed_$PBS_ARRAYID
+
+cp Python_Code.py seed_$PBS_ARRAYID
+
+echo "$PBS_ARRAYID" >> seed_$PBS_ARRAYID/Input.dat
+
+cd seed_$PBS_ARRAYID
+
+python Python_Code.py

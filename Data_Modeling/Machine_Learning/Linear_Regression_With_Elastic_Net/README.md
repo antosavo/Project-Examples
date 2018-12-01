@@ -1,0 +1,1 @@
+The python script Linear_Regression_With_Elastic_Net.ipynb uses an elastic net regression to model the data for the interaction of two signals in an optical fiber. The target variable is the energy E.

@@ -1,0 +1,1 @@
+The python script CNN_Face_Recognition.ipynb uses a convolutional neural network to classify images of faces.

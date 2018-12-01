@@ -1,0 +1,1 @@
+The python script Non_Linear_Regression_With_Neural_Networks.ipynb uses a multilayer perceptron regressor to model the data for the interaction of two signals in an optical fiber. The target variable is the energy E.
