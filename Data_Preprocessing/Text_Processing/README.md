@@ -1,0 +1,1 @@
+The Text_Processing.ipynb script processes texts using nltk and word embedding.
