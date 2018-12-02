@@ -1,0 +1,1 @@
+The Image_Processing.ipynb script processes images using scipy.
