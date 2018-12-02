@@ -1,14 +1,14 @@
-Data Science Projects
+Data Science Projects.
 
-Data Preprocessing: Pandas, SQL, Image Processing, Text Processing
+• Data Preprocessing: Pandas, SQL, Image Processing, Text Processing
  
-Data Modeling: Machine Learning, Deep Learning
+• Data Modeling: Machine Learning, Deep Learning
  
-Data Visualization: Matplotlib
+• Data Visualization: Matplotlib
 
-Big Data: Spark, Torque
+• Big Data: Spark, Torque
  
-Software Development: C++, Scala
+• Software Development: C++, Scala
 
 If for some reason you can't see the ipynb files, copy their URL into:
 
