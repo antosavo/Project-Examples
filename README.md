@@ -10,6 +10,6 @@ Data Science Projects.
  
 • Software Development: C++, Scala
 
-If for some reason you can't see the ipynb files, copy their URL into:
+If for some reason you can't see an ipynb file, copy its URL into:
 
 https://nbviewer.jupyter.org
