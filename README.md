@@ -1,4 +1,4 @@
-Data Science Projects.
+Data Science Projects:
 
 • Data Preprocessing: Pandas, SQL, Image Processing, Text Processing
  
