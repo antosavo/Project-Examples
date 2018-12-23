@@ -1,1 +1,0 @@
-The python script Image_Classification_With_CNN.ipynb uses a convolutional neural network to classify images of optical waves.
