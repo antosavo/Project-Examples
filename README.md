@@ -6,9 +6,9 @@ Data Science Projects:
  
 • Data Visualization: Matplotlib
 
-• Big Data: Spark, Torque
+• Big Data: PySpark, Python Multiprocessing, Torque
  
-• Software Development: C++, Scala
+• Software Development: C++
 
 If for some reason you can't see an ipynb file, copy its URL into:
 
