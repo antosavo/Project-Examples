@@ -1,4 +1,0 @@
-in .bash_profile
-
-export SPARK_HOME=/Users/user_name/spark-2.4.0
-export PATH=$SPARK_HOME/bin:$PATH
